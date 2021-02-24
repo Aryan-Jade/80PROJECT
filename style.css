@@ -1,0 +1,17 @@
+#add_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#get_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+input{
+    margin: 10px;
+}
+#background {
+        background-image: url("Bg.jpg");
+        background-position: center;
+        background-size: cover;
+}
